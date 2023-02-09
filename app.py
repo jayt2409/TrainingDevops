@@ -1,1 +1,2 @@
-hello work 
+hello work
+Diff command check
